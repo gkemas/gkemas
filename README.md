@@ -1,4 +1,10 @@
 ### Hi there 👋
+ I am Gökhan KEMAŞ. I am a FrontEnd Developer who develops power and masters new technologies.
+
+- I received training in the field of Frontend Development.
+<p align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkemas&theme=dark&show_icons=true"/>
+     
 
 <!--
 **gkemas/gkemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
